@@ -92,4 +92,4 @@ This project was created as part of the **Maven Pizza Challenge**.
 * **Dataset:** Provided by Maven Analytics to simulate a real-world business scenario.
 
 ---
-*Created by Felix Ocham| [Linkedin Profile](https://www.linkedin.com/in/felix-o-703987a7/)*
+*Created by Felix Ocham  |  [Linkedin Profile](https://www.linkedin.com/in/felix-o-703987a7/)*
